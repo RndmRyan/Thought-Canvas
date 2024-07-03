@@ -1,0 +1,13 @@
+.introSection{
+    height: 100vh;
+    align-items: center;
+    margin-top: 100px;
+}
+
+.introSection img{
+    height: 50vh;
+}
+
+.BlogTags{
+    display: flex;
+}
